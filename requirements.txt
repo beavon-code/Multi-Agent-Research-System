@@ -1,0 +1,19 @@
+# Langchain Ecosystem
+langchain
+langchain-core
+langchain-community
+langchain-deepseek
+streamlit
+
+# Search Tools
+tavily-python
+
+# Web scraping
+beautifulsoup4
+readability-lxml
+trafilatura
+requests
+lxml
+
+# Environment variables
+python-dotenv
