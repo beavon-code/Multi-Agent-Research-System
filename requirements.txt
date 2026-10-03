@@ -3,6 +3,7 @@ langchain
 langchain-core
 langchain-community
 langchain-deepseek
+langchain-groq
 streamlit
 
 # Search Tools
